@@ -6,3 +6,4 @@ dataset
 logs
 app/vector_db
 extras/
+.env
