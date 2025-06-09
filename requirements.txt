@@ -1,2 +1,10 @@
 toml == 0.10.2
 loguru == 0.7.3
+sentence-transformers==4.1.0
+langchain==0.3.25
+langchain-community==0.3.24  
+transformers==4.52.3
+accelerate==1.7.0
+faiss-cpu==1.11.0
+sentence-transformers==4.1.0
+langchain-groq==0.3.2
